@@ -3,15 +3,27 @@
 @@@@@@@@@@@@@ƒ{ ƒN ‚ç ‚Ì ŒÌ ‹½@@@@@@@@@@@@@
 ---------------------------------------------------------------------
 
-‚±‚ê‚ÍƒÀ‰ü—Ç”Å‚Å‚·B‚Å‚àA‚½‚¾‚Ì‘ÌŒ±”Å‚Å‚·Bƒ¿”Å‚ÌŽŸ‚¾‚©‚çƒÀ”Å‚È‚¾‚¯‚Å‚·B
-ƒ¿”ÅŒöŠJ‚©‚ç”¼”NˆÈã‚àŠ|‚©‚Á‚Ä‚µ‚Ü‚Á‚½‚±‚Æ‚ð‚¨˜l‚Ñ\‚µã‚°‚Ü‚·B
+‚±‚ê‚ÍƒÁ”Å‚Å‚·B‚Å‚àA–¢Š®¬‚Å‚·Bƒ¿”Å‚ÌŽŸ‚ÌƒÀ”Ô‚ÌŽŸ‚¾‚©‚çƒÁ”Å‚È‚¾‚¯‚Å‚·B
+ƒÀ”ÅŒöŠJ‚©‚ç‚R”N‚àŠ|‚©‚Á‚Ä‚µ‚Ü‚Á‚½‚±‚Æ‚ðAŽÀ‚ÉA‚¨˜l‚Ñ\‚µã‚°‚Ü‚·B
+–{“–‚ÉA‚¢‚Â‚É‚È‚Á‚½‚çŠ®¬‚·‚é‚Ì‚©HH
 
-–{ƒo[ƒWƒ‡ƒ“‚Å‚ÍAƒvƒƒ[ƒO‚ªI‚í‚éŠ‚Ü‚Å‚Í—V‚×‚Ü‚·B
+\‚µ–ó‚È‚¢‚±‚Æ‚ÉA‚ ‚ê‚©‚çFX‚ÆŽd—l‚ð•Ï‚¦‚Ä‚µ‚Ü‚Á‚½‚Ì‚ÅA
+ƒZ[ƒuƒf[ƒ^‚ÌŒÝŠ·«‚ª‚²‚´‚¢‚Ü‚¹‚ñB‚²‚ß‚ñ‚È‚³‚¢B
+Å‰‚©‚ç‚â‚Á‚Ä‚Ý‚Ä‚ËBƒI[ƒvƒjƒ“ƒO‚¿‚å‚Á‚Æ’Ç‰Á‚µ‚½‚©‚ç‹–‚µ‚ÄB
+
+–{ƒo[ƒWƒ‡ƒ“‚Å‚ÍA¡Œã‚Ìƒ^[ƒjƒ“ƒOƒ|ƒCƒ“ƒg‚É‚È‚éŠ‚Ü‚Å‚Í—V‚×‚Ü‚·B
 Setup.exe‚ð‹N“®‚µ‚Ä‰ð“€‚µAo‚Ä‚«‚½RPG_RT.exe‚ðŽÀs‚·‚é‚±‚Æ‚ÅƒQ[ƒ€‚ªŽn‚Ü‚è‚Ü‚·B
 
 
 – ‚±‚ÌƒQ[ƒ€‚Íd‚¢‚Å‚·B‚²’ˆÓ‚­‚¾‚³‚¢B
 @ ‚»‚±‚»‚±‘O‚Ì‚o‚b‚Å‚â‚éê‡‚ÍAƒ_ƒuƒ‹ƒXƒNƒŠ[ƒ“‚É‚·‚é‚Æ‚â‚Î‚¢‚Å‚·B
+– ‚Æ‚«‚Ç‚«ƒJ[ƒ\ƒ‹‚ªŠŠ‚éŒ»Û‚ª‚ ‚è‚Ü‚·B
+@ ‚±‚ê‚Íƒ}ƒ‹ƒ`ƒRƒA‚ÌPC‚¾‚©‚ç‹N‚±‚éŒ»Û‚ç‚µ‚¢‚Å‚·B
+@ ‰½‚Æ‚©‚µ‚Ä‰ü‘P‚µ‚½‚¢‚ÆŽv‚Á‚Ä‚Í‚¢‚é‚Ì‚Å‚·‚ªA‚¢‚Â‚Ü‚Å‚½‚Á‚Ä‚à
+@ ‚â‚é‹C‚ª‹N‚«‚È‚¢‚Ì‚ÅA‰ü‘P‚³‚ê‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB‚²‚ß‚ñ‚ËB
+– í“¬‚©‚ç•œ‹A‚µ‚½‚Æ‚«‚ÌBGM‚ª‚¨‚©‚µ‚È‚±‚Æ‚É‚È‚é‚±‚Æ‚ª‚²‚´‚¢‚Ü‚·B
+@ ‚±‚ê‚ÍŽd—l‚Ý‚½‚¢‚È‚à‚ñ‚È‚Ì‚ÅA‹C‚É‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B
+@ ‚»‚Ì‚¤‚¿‰ü‘P‚·‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
 
 
 m“ïˆÕ“x‚É‚Â‚¢‚Än
@@ -26,14 +38,13 @@ Setup.exe‚ð‹N“®‚µ‚Ä‰ð“€‚µAo‚Ä‚«‚½RPG_RT.exe‚ðŽÀs‚·‚é‚±‚Æ‚ÅƒQ[ƒ€‚ªŽn‚Ü‚è‚Ü‚·
 
 m‘Oƒo[ƒWƒ‡ƒ“‚Æ‚Ì‘Šˆán
 
-Eí“¬‚Å–¢ŽÀ‘•‚¾‚Á‚½•”•ª‚ðŽÀ‘•‚µ‚Ü‚µ‚½Bí“¬’†‚É–‚–@‚âƒAƒCƒeƒ€‚ªŽg—p‚Å‚«‚Ü‚·B
-@‚Ü‚½AƒxƒC•‚ÍƒŒƒxƒ‹‚S‚É‚È‚é‚Æƒtƒ@ƒCƒA[ƒ{[ƒ‹‚¾‚¯K“¾‚·‚é‚æ‚¤‚É‚È‚Á‚Ä‚¢‚Ü‚·B
-@‚»‚êˆÈŠO‚Ì–‚–@‚â•KŽE‹Z‚Í‚ ‚è‚Ü‚¹‚ñB‚²—¹³‚­‚¾‚³‚¢B
-E‹C‹x‚ß’ö“x‚Å‚·‚ªAƒCƒxƒ“ƒg‚ð­‚µ’Ç‰Á‚µ‚Ü‚µ‚½B
+E‘O‰ñ‚Ì‘±‚«‚És‚¯‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B
+@‚Å‚àA’¬‚È‚Ç‚ªƒXƒJƒXƒJ‚È‚Ì‚ÅA‚»‚Á‚Æ‚µ‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢B
 
 
 ---------------------------------------------------------------------
 
+version 0.20iƒÁ”Åj@@ : ‚Q‚O‚P‚U”N@‚XŒŽ‚Q‚Q“ú
 version 0.11iƒÀ‰ü—Ç”Åj : ‚Q‚O‚P‚R”N‚P‚QŒŽ‚Q‚S“ú
 version 0.01iƒÀ”Åj@@ : ‚Q‚O‚P‚R”N‚P‚OŒŽ‚Q‚O“ú
 version 0.00iƒ¿”Åj@@ : ‚Q‚O‚P‚R”N@‚RŒŽ‚R‚P“ú
