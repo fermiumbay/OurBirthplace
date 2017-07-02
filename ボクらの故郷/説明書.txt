@@ -3,13 +3,17 @@
 @@@@@@@@@@@@@ƒ{ ƒN ‚ç ‚Ì ŒÌ ‹½@@@@@@@@@@@@@
 ---------------------------------------------------------------------
 
-‚±‚ê‚ÍƒÁ”Å‚Å‚·B‚Å‚àA–¢Š®¬‚Å‚·Bƒ¿”Å‚ÌŽŸ‚ÌƒÀ”Ô‚ÌŽŸ‚¾‚©‚çƒÁ”Å‚È‚¾‚¯‚Å‚·B
-ƒÀ”ÅŒöŠJ‚©‚ç‚R”N‚àŠ|‚©‚Á‚Ä‚µ‚Ü‚Á‚½‚±‚Æ‚ðAŽÀ‚ÉA‚¨˜l‚Ñ\‚µã‚°‚Ü‚·B
-–{“–‚ÉA‚¢‚Â‚É‚È‚Á‚½‚çŠ®¬‚·‚é‚Ì‚©HH
+‚±‚ê‚ÍƒÂ”Å‚Å‚·B‚Å‚àA–¢Š®¬‚Å‚·Bƒ¿”Å‚ÌŽŸ‚ÌƒÀ”Ô‚ÌŽŸ‚ÌƒÁ”Å‚ÌŽŸ‚¾‚©‚çƒÂ”Å‚È‚¾‚¯‚Å‚·B
+ƒÁ”ÅŒöŠJ‚©‚ç‚¨‚æ‚»‚P”NŒo‚Á‚Ä‚µ‚Ü‚Á‚½‚±‚ÆA‚¨˜l‚Ñ\‚µã‚°‚Ü‚·B
+‚µ‚©‚µAŽÀÛ‚Ìì‹ÆŠúŠÔ‚Í‚Rƒ–ŒŽ’ö“x‚Å‚ ‚èA‚Rƒ–ŒŽƒXƒpƒ“‚Å‚à‚µ
+ì¬‚·‚é‚±‚Æ‚ª‰Â”\‚È‚Ì‚Å‚ ‚ê‚ÎA‚«‚Á‚ÆŒ»ŽÀ“I‚ÈŽžŠÔ‚ÅŠ®¬‚µ‚Ü‚·B‚ª‚ñ‚Î‚é‚æI
 
-\‚µ–ó‚È‚¢‚±‚Æ‚ÉA‚ ‚ê‚©‚çFX‚ÆŽd—l‚ð•Ï‚¦‚Ä‚µ‚Ü‚Á‚½‚Ì‚ÅA
-ƒZ[ƒuƒf[ƒ^‚ÌŒÝŠ·«‚ª‚²‚´‚¢‚Ü‚¹‚ñB‚²‚ß‚ñ‚È‚³‚¢B
-Å‰‚©‚ç‚â‚Á‚Ä‚Ý‚Ä‚ËBƒI[ƒvƒjƒ“ƒO‚¿‚å‚Á‚Æ’Ç‰Á‚µ‚½‚©‚ç‹–‚µ‚ÄB
+ƒÀ”Å‚©‚ç‚³‚ç‚É‘½­Žd—l‚ð•Ï‚¦‚Ä‚µ‚Ü‚Á‚½‚¹‚¢‚Å
+Œµ–§‚É‚ÍƒZ[ƒuƒf[ƒ^‚ÌŒÝŠ·«‚ª‚È‚¢‚Ì‚Å‚·‚ªA‘Îˆ‚Å‚«‚é‚æ‚¤‚É‚µ‚Ä‚¢‚Ü‚·B
+‹ï‘Ì“I‚É‚ÍAŠeƒLƒƒƒ‰‚Ìí“¬Ÿ—˜‰ñ”‚ð‹L˜^‚·‚é‚æ‚¤‚É‚µ‚½‚Ì‚Å
+ˆÈ‘O‚ÌƒZ[ƒuƒf[ƒ^‚Å‚Í‘S•”‚»‚ê‚ç‚ª0‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚Ü‚·B
+‚±‚ê‚ð‘Îˆ‚·‚é‚½‚ßAƒ[ƒh‚µ‚½Û‚É‚Ä‚«‚Æ‚¤‚È’liƒxƒC•‚¾‚Á‚½‚ç50‰ñ‚È‚Çj‚ð
+‘ã“ü‚·‚é‚æ‚¤‚É‚µ‚Ä‚¢‚Ü‚·B
 
 –{ƒo[ƒWƒ‡ƒ“‚Å‚ÍA¡Œã‚Ìƒ^[ƒjƒ“ƒOƒ|ƒCƒ“ƒg‚É‚È‚éŠ‚Ü‚Å‚Í—V‚×‚Ü‚·B
 Setup.exe‚ð‹N“®‚µ‚Ä‰ð“€‚µAo‚Ä‚«‚½RPG_RT.exe‚ðŽÀs‚·‚é‚±‚Æ‚ÅƒQ[ƒ€‚ªŽn‚Ü‚è‚Ü‚·B
@@ -44,6 +48,7 @@ Setup.exe‚ð‹N“®‚µ‚Ä‰ð“€‚µAo‚Ä‚«‚½RPG_RT.exe‚ðŽÀs‚·‚é‚±‚Æ‚ÅƒQ[ƒ€‚ªŽn‚Ü‚è‚Ü‚·
 
 ---------------------------------------------------------------------
 
+version 0.30iƒÂ”Åj@@ : ‚Q‚O‚P‚V”N@‚VŒŽ@‚Q“ú
 version 0.20iƒÁ”Åj@@ : ‚Q‚O‚P‚U”N@‚XŒŽ‚Q‚Q“ú
 version 0.11iƒÀ‰ü—Ç”Åj : ‚Q‚O‚P‚R”N‚P‚QŒŽ‚Q‚S“ú
 version 0.01iƒÀ”Åj@@ : ‚Q‚O‚P‚R”N‚P‚OŒŽ‚Q‚O“ú
