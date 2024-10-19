@@ -70,6 +70,9 @@
 　『ZERONESS』（じょん 様）
 　http://sound.jp/zeroness/
 
+　『upNamo LiveFloor』（upNamo 様）
+　http://upnamo.s59.xrea.com/
+
 
 【効果音】
 　『ザ･マッチメイカァズ』（OSA 様）
@@ -78,12 +81,13 @@
 　『TAM Music Factory』（多夢 様）
 　http://www.tam-music.com/
 
-　『魔王魂】（KOUICHI 様）
+　『魔王魂』（KOUICHI 様）
 　http://maoudamashii.jokersounds.com/
 
-　『soundseekers blog』
-　http://blog.mno3.jp/soundseekrs_blog/post.html
-（ごめんなさい、素材だけいただいてまだ使用させていただいてないです）
+
+【フォント】
+　Google Fonts : Noto Sans Japanes
+　https://fonts.google.com/noto/specimen/Noto+Sans+JP?subset=japanese&noto.script=Jpan
 
 
 【スペシャルサンクス】
@@ -101,6 +105,8 @@
 　たなちぃ(るぷ) 様
 　Tamathan Thavasa 様
 　てばもってぃ 様
+　燦然 様
+　Meraki 様
 
 
 【原作・制作】
